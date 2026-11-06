@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GameUI_ml-IN
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: ml-IN
+  m_SharedData: {fileID: 11400000, guid: eaa55ba234bdb704695c59b15f915919, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 704787509248
+    m_Localized: "\u0D15\u0D33\u0D3F\u0D15\u0D4D\u0D15\u0D41\u0D15"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1120996683776
+    m_Localized: "\u0D38\u0D4D\u0D47\u0D28\u0D15\u0D4D\u0D15\u0D4D \u0D17\u0D46\u0D2F\u0D3F\u0D02"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1247094239232
+    m_Localized: "\u0D0E\u0D19\u0D4D\u0D19\u0D28\u0D46 \u0D15\u0D33\u0D3F\u0D15\u0D4D\u0D15\u0D3E\u0D02"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1407249543168
+    m_Localized: "\u0D17\u0D46\u0D2F\u0D3F\u0D02 \u0D06\u0D30\u0D02\u0D2D\u0D3F\u0D15\u0D4D\u0D15\u0D41\u0D15"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1490632306688
+    m_Localized: "\u0D38\u0D4D\u0D15\u0D4B\u0D7C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1482742820864
+    m_Localized: "\u0D09\u0D2F\u0D7C\u0D28\u0D4D\u0D28 \u0D38\u0D4D\u0D15\u0D4B\u0D7C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1899560169472
+    m_Localized: "\u0D28\u0D3F\u0D7C\u0D24\u0D4D\u0D24\u0D41\u0D15"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2008540770304
+    m_Localized: "\u0D24\u0D41\u0D1F\u0D30\u0D41\u0D15"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2010927329280
+    m_Localized: "\u0D39\u0D4B\u0D02"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2012907040768
+    m_Localized: "\u0D24\u0D41\u0D1F\u0D19\u0D4D\u0D19\u0D41\u0D15"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2014882557952
+    m_Localized: "\u0D15\u0D33\u0D3F \u0D05\u0D35\u0D38\u0D3E\u0D28\u0D3F\u0D1A\u0D4D\u0D1A\u0D41"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

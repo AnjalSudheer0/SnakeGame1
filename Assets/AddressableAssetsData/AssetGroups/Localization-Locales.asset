@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Locales
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-Locales
+  m_GUID: 9fccc189996674346af5f598d84ba9db
+  m_SerializeEntries:
+  - m_GUID: 5c297e98664bae34baaeab7703fef628
+    m_Address: English (India) (en-IN)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 649f0ac8e6fbedf4f9812e5ec2a46629
+    m_Address: Malayalam (India) (ml-IN)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: c0b5b27b998110d49bc3f1705b743a11, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 80d6c4cba5081ba4cad7d5d747a83a95, type: 2}
+    - {fileID: 11400000, guid: 1543a9fd430afce43b3cefe2ff923f8b, type: 2}
+    - {fileID: 11400000, guid: 21bb60953a437104c8ee15b83d81af54, type: 2}
